@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types | The Fish Size Project</title>
-    <link>https://example.com/publication_types/</link>
-      <atom:link href="https://example.com/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://fishsizeproject.org/publication_types/</link>
+      <atom:link href="http://fishsizeproject.org/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/logo_huf98d26167843820d869cbe20bf1f5847_61908_300x300_fit_lanczos_3.png</url>
+      <url>http://fishsizeproject.org/media/logo_huf98d26167843820d869cbe20bf1f5847_61908_300x300_fit_lanczos_3.png</url>
       <title>Publication_types</title>
-      <link>https://example.com/publication_types/</link>
+      <link>http://fishsizeproject.org/publication_types/</link>
     </image>
     
   </channel>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | The Fish Size Project</title>
-    <link>https://example.com/publication/</link>
-      <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://fishsizeproject.org/publication/</link>
+      <atom:link href="http://fishsizeproject.org/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/logo_huf98d26167843820d869cbe20bf1f5847_61908_300x300_fit_lanczos_3.png</url>
+      <url>http://fishsizeproject.org/media/logo_huf98d26167843820d869cbe20bf1f5847_61908_300x300_fit_lanczos_3.png</url>
       <title>Publications</title>
-      <link>https://example.com/publication/</link>
+      <link>http://fishsizeproject.org/publication/</link>
     </image>
     
     <item>
       <title>An example conference paper</title>
-      <link>https://example.com/publication/example/</link>
+      <link>http://fishsizeproject.org/publication/example/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/example/</guid>
+      <guid>http://fishsizeproject.org/publication/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
