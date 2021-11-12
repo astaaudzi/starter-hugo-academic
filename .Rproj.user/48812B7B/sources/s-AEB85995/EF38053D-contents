@@ -8,3 +8,6 @@ node_modules/
 .Rproj.user
 .Rdata
 .Rhistory
+.DS_Store
+Thumbs.db
+/public/

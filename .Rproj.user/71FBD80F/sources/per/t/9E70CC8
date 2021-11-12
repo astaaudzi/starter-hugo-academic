@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1636672894752.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1355580363",
+    "id" : "9E70CC8",
+    "lastKnownWriteTime" : 1636673610,
+    "last_content_update" : 1636673610065,
+    "path" : "~/RstudioProjects/asta_website/config/_default/config.yaml",
+    "project_path" : "config/_default/config.yaml",
+    "properties" : {
+        "cursorPosition" : "7,14",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}
