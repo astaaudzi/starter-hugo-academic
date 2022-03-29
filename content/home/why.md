@@ -18,7 +18,8 @@ subtitle:
 design:
   columns: "2"
   background:
-    image: RLS1.jpg
+    color: '#1883E5'
+    #image: RLS1.jpg
     image_darken: 1.0
     image_parallax: false
     image_position: center
