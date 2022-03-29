@@ -1,0 +1,18 @@
+# IDEs
+.idea/
+
+# Hugo
+/resources/
+jsconfig.json
+node_modules/
+.Rproj.user
+.Rdata
+.Rhistory
+.DS_Store
+Thumbs.db
+/public/
+\\.knit\\.md$
+.utf8\\.md$
+go.sum
+.hugo_build.lock
+
