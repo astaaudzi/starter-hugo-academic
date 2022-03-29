@@ -73,3 +73,6 @@ security:
     getenv:
       - ^HUGO_
       - ^WC_
+sitemap:
+  _merge: deep
+

@@ -5,6 +5,13 @@ The website is currently up and running. The parallax images (background picture
 ## Setting up your Rstudio
 
 This website was created using Hugo and is based on the wowchemy template (https://wowchemy.com).
+=======
+[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://wowchemy.com/hugo-themes/)
+[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
+[![Twitter Follow](https://img.shields.io/twitter/follow/wowchemy?label=Follow%20on%20Twitter)](https://twitter.com/wowchemy)
+
+️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+
 
 To be able to edit the content and see the changes, one needs to install 3 softwares:
 
@@ -13,6 +20,14 @@ To be able to edit the content and see the changes, one needs to install 3 softw
 - `hugo`, a software building the "public" side of the website, based on your files. Install using `blogdown::install_hugo()`
 
 - `hugo extented`, a software allowing the use of fancy widgets and such, which are found in the wowchemy template. Install using https://wowchemy.com/docs/getting-started/install-hugo-extended/
+=======
+- 👉 [**Get Started**](https://wowchemy.com/hugo-themes/)
+- 📚 [View the **documentation**](https://wowchemy.com/docs/)
+- 💬 [Chat with the **Wowchemy research community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
+- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
+- ⬇️ **Automatically import your publications from BibTeX** with the [Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli) 
+- 💡 [Suggest an improvement](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
+- ⬆️ **Updating?** View the [Update Guide](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://github.com/wowchemy/wowchemy-hugo-themes/releases)
 
 *How they work together*
 
@@ -103,3 +118,13 @@ blogdown won't find the right config if starting a fresh template. Just copy con
 my savior:
 
 https://matteocourthoud.github.io/post/website/
+
+## Latest news
+<!--START_SECTION:news-->
+* [Easily make an academic CV website to get more cites and grow your audience 🚀](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;easily-make-academic-website&#x2F;)
+* [What&#39;s new in v5.2?](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;whats-new-in-v5.2&#x2F;)
+* [What&#39;s new in v5.1?](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;whats-new-in-v5.1&#x2F;)
+* [Version 5.0 (February 2021)](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;version-5.0-february-2021&#x2F;)
+* [Version 5.0 Beta 3 (February 2021)](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;version-5.0-beta-3-february-2021&#x2F;)
+<!--END_SECTION:news-->
+

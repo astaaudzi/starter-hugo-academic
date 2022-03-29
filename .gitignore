@@ -13,3 +13,6 @@ Thumbs.db
 /public/
 \\.knit\\.md$
 .utf8\\.md$
+go.sum
+.hugo_build.lock
+
