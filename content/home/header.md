@@ -25,7 +25,7 @@ design:
   # column layout
   columns: "3"
   background:
-    color: '#202958'
+    # color: '#FF5733' 
     text_color_light: true
     # image: seasurface.png
     # image_darken: 1.0

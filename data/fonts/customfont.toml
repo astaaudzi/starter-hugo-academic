@@ -1,0 +1,13 @@
+# Font style metadata
+name = "custom"
+
+# Optional Google font URL
+google_fonts = "family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&family=Fruktur&family=Macondo"
+
+
+
+# Font families
+heading_font = "Montserrat"
+body_font = "Macondo"
+nav_font = "Roboto"
+mono_font = "Roboto Mono"

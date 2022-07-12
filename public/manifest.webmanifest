@@ -2,8 +2,8 @@
   "name": "The Fish Size Project",
   "short_name": "The Fish Size Project",
   "lang": "en-us",
-  "theme_color": "rgb(225, 121, 62)",
-  "background_color": "rgb(225, 121, 62)",
+  "theme_color": "#147F03",
+  "background_color": "#147F03",
   "icons": [{
     "src": "/media/icon_hu8d4d54d67ed9bdb229f4a524aeda970f_538549_192x192_fill_lanczos_center_3.png",
     "sizes": "192x192",

@@ -1,0 +1,20 @@
+# Theme metadata
+name = "customethemedark"
+
+[dark]
+  # Primary
+  primary = "#147F03" # don't know
+
+  # Menu
+  menu_primary = "#1883E5" # color of header band
+  menu_text = "#1A2335" # text and symbol appearing in the header
+  menu_text_active = "#E1793E" # selected text in the roll down menu
+  menu_title = "#1A2335" #cyan
+
+  # Home sections
+  home_section_odd = "#1A2335" # background color, start at odd, can be overidden individually
+  home_section_even = "#1883E5" # grey blue green
+
+# footer
+  link = "#E1793E"
+  link_hover = "#E1793E"

@@ -18,7 +18,7 @@ subtitle: Coming soon
 design:
   columns: "2"
   background:
-    color: '#202958'
+  #  color: '#202958'
     text_color_light: true
   #   image: appbackground.png
   #   image_darken: 1.0
@@ -30,4 +30,6 @@ design:
   #   padding: ["20px", "0", "20px", "0"]
 ---
 
-{{< gallery album="appScreenshots" >}}
+{{< gallery album="appscreenshots" >}} 
+
+

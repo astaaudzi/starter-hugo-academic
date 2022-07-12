@@ -21,7 +21,7 @@ design:
   columns: "2"
   # Use a dark navy background with light text.
   background:
-    color: '#202958'
+  #  color: '#202958'
     text_color_light: true
 ---
 

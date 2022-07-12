@@ -5,55 +5,27 @@
 
 # Appearance
 
-theme: customtheme
-day_night: false
-font: ''
-font_size: L
+appearance:
+  theme_day: customthemelight
+  theme_night: customthemedark
+  font: minimal
+  font_size: L
 
 # SEO
 
-site_type: Person
-local_business_type: ''
-org_name: ''
-description: ''
-twitter: ''
-
-# Contact (edit or remove options as required)
-
-email: asta.audzijonyte@utas.edu.au
-# phone: 888 888 88 88
-# address:
-#   street: 450 Serra Mall
-#   city: Stanford
-#   region: CA
-#   postcode: '94305'
-#   country: United States
-#   country_code: US
-# coordinates:
-#   latitude: '37.4275'
-#   longitude: '-122.1697'
-# directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-# office_hours:
-#   - 'Monday 10:00 to 13:00'
-#   - 'Wednesday 09:00 to 10:00'
-# appointment_url: 'https://calendly.com'
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  # - icon: skype
-  #   icon_pack: fab
-  #   name: Skype Me
-  #   link: 'skype:echo123?call'
-  # - icon: keybase
-  #   icon_pack: fab
-  #   name: Chat on Keybase
-  #   link: 'https://keybase.io/'
-  # - icon: comments
-  #   icon_pack: fas
-  #   name: Discuss on Forum
-  #   link: 'https://discourse.gohugo.io'
+marketing:
+  seo:
+    site_type: Person
+    local_business_type: ''
+    org_name: ''
+    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+    twitter: 'wowchemy'
+  analytics:
+    google_analytics: ''
+    baidu_tongji: ''
+  verification:
+    google: ''
+    baidu: ''
 
 # Site header
 
@@ -66,6 +38,8 @@ header:
     show_day_night: false
     show_search: false
     highlight_active_link: true
+
+# Site footer
 
 footer:
   copyright:
@@ -93,12 +67,10 @@ features:
       - latex
   math:
     enable: false
-  diagram:
-    enable: false
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/baldrech/academic_website'
     content_dir: content
     branch: master
   avatar:
@@ -127,10 +99,13 @@ features:
 
 extensions:
   cms:
-    branch: master
+    branch: main
     local_backend: false
-  isotope:
-    # Enable if you use the Portfolio widget or Publication filter
-    enable: true
   academicons:
     enable: true
+
+# Security
+
+security:
+  # Allow frame for embedding speaker notes in slides
+  allow_frame: true

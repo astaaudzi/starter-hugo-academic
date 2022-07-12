@@ -18,11 +18,10 @@ subtitle:
 design:
   columns: "2"
   background:
-    color: '#1883E5'
+  #  color: '#1883E5'
     image: RLS1.jpg
-    parallax: true
     image_darken: 1.0
-    image_parallax: false
+    image_parallax: true
     image_position: center
     image_size: cover
     text_color_light: true

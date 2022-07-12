@@ -18,7 +18,7 @@ title: Who we are?
 design:
   columns: "2"
   background:
-    color: '#1883E5'
+    #color: '#1883E5'
     # image: team.png
     # image_darken: 1.0
     # image_parallax: true
